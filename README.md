@@ -1,6 +1,6 @@
 ## Hi there, I'm Ismael! 😁
 
-- 💻 Working as a full stack developer and as a blockchain developer at Lacuna Software
+- 💻 Working as a backend engineer at Blockparty
 - 🔗 Passionated by cryptography, distributed systems, and cryptocurrencies
 - 🌱 Currently learning Solidity and StarkNet
 - 😉 Pronouns: he/him
