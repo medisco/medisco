@@ -2,7 +2,7 @@
 
 - 💻 Working as a backend engineer at Blockparty
 - 🔗 Passionated by cryptography, distributed systems, and cryptocurrencies
-- 🌱 Currently learning Solidity and StarkNet
+- 🌱 Currently learning about Oracles and Layer-2s
 - 😉 Pronouns: he/him
 
 <p align="center">
